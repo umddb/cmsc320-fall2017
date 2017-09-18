@@ -284,11 +284,8 @@ Prepare one plot that shows the top 50 solar flares in context with all data ava
 
 Prepare an Jupyter Notebook file that includes for each step in Part 1: (a) code to carry out the step discussed, (b) output showing the output of your code, similar to the examples above, and (c) a short prose description of how your code works. For questions 1 and 2 of Part 2, follow the instructions there. For Question 3 of part 2 provide: (a) a short description (2 sentences) of what the intent of your plot is (think in terms of our discussion on how we show variation, co-variation in terms of central trend, spread, skew etc.), (b) code to produce your plot, (c) a short text description of your plot, and (d) a sentence or two of interpretation of your plot (again think of variation, co-variation, etc.).
 
-Submit the resulting PDF to ELMS at: [https://myelms.umd.edu/courses/1218364/assignments/4389203](https://myelms.umd.edu/courses/1218364/assignments/4389203)
+Submit the resulting .ipynb file to ELMS at: [https://myelms.umd.edu/courses/1227895/assignments/4501288](https://myelms.umd.edu/courses/1227895/assignments/4501288)
 
 ### Group work
 
 You are encouraged to work in small groups, but you must prepare your own writeup and submit it. Include the names of the peers who you worked with in the writeup.
-
-**OLD**:
-Working in groups in this project is encouraged but not required. If working on a group: (1) groups can be of 2 or 3 people, (2) each group member can submit the same writeup on ELMS, (3) in all cases, names of peers who worked in the group should be included in the writeup. As all group work and reflective of academic ethics code, there is an expectation that all group members will contribute equally in design, implementation and reporting of this work. If any student feels this expectation was not met when working on this project, they should contact the instructor team who will handle the situation as expediently and fairly as possible.
