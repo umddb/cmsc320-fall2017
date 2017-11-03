@@ -41,11 +41,11 @@ For this exercise you will explore how life expectancy has changed over 50 years
 A slightly different way of making the same plot is looking at the distribution of life expectancy across countries as it changes over time:
 
 ```
-lggplot(aes(x='year', y='lifeExp'), data=data) +\
+ggplot(aes(x='year', y='lifeExp'), data=data) +\
     geom_violin() +\
     labs(title="Life expectancy over time",
          x = "year",
-         y = "life expectancy")</code></pre>
+         y = "life expectancy")
 ```
 
 <img src="figs/violin.png" height="242">
@@ -97,7 +97,7 @@ Based on this plot, consider the following questions.
 
 ### Gradient Descent
 
-<p><strong>Problem 1</strong> <em>Implement the gradient descent algorithm (either batch or stochastic versions) for multiple linear regression. I.e., extend the version of the algorithm in the lecture notes to multiple parameters.</em></p>
+<p><strong>Problem 1</strong> <em>Implement the gradient descent algorithm (either batch or stochastic versions) for multiple logistic regression. I.e., extend the version of the algorithm in the lecture notes to multiple parameters.</em></p>
 <p>The gradient descent update equation for logistic regression is given by:</p>
 
 <!--
